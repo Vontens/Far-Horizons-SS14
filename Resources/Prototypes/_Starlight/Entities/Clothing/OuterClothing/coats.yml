@@ -261,9 +261,9 @@
   description: A regular bomber, but with armored inserts.
   components:
   - type: Sprite
-    sprite: _Starlight/Clothing/OuterClothing/Coats/security_bomber.rsi
+    sprite: _FarHorizons/Clothing/OuterClothing/Coats/security_bomber_nt.rsi
   - type: Clothing
-    sprite: _Starlight/Clothing/OuterClothing/Coats/security_bomber.rsi
+    sprite: _FarHorizons/Clothing/OuterClothing/Coats/security_bomber_nt.rsi
   - type: Armor
     modifiers:
       flatReductions: #FH
@@ -295,12 +295,12 @@
   parent: [ClothingOuterStorageFoldableBase, AllowSuitStorageClothing, BaseSecurityContraband]
   id: ClothingOuterWindbreakerSecurity
   name: Security Windbreaker #Far Horizons - The Great Capitalization Crusade
-  description: A stylish red windbreaker with additional inserted plate padding for security usage.
+  description: A stylish blue windbreaker with additional inserted plate padding for security usage.
   components:
   - type: Sprite
-    sprite: _Starlight/Clothing/OuterClothing/Coats/windbreaker_security
+    sprite: _FarHorizons/Clothing/OuterClothing/Coats/windbreaker_security_nt
   - type: Clothing
-    sprite: _Starlight/Clothing/OuterClothing/Coats/windbreaker_security
+    sprite: _FarHorizons/Clothing/OuterClothing/Coats/windbreaker_security_nt
   - type: Armor
     modifiers:
       flatReductions: #FH
